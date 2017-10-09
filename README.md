@@ -17,3 +17,8 @@ It additionally demonstrates the client the data about the melody they are endea
 
 ![Song Preview](https://raw.githubusercontent.com/udit-001/youtube-mp3/master/img/Song%20Preview.png)
 
+## License
+
+> You can check out the full license [here.](https://github.com/udit-001/youtube-mp3/blob/master/LICENSE)
+
+This project is licensed under the terms of the MIT license.
