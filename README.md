@@ -1,6 +1,8 @@
 # Youtube-mp3
 A python GUI program aimed to provide the user a simple way to download songs in MP3 format.
 
+>**EDIT :** The API which provided the MP3 conversion doesn't work anymore. So this application doesn't work anymore. This problem will be fixed shortly.
+
 ## Installation
 Install the required dependencies/libraries by running :
 
